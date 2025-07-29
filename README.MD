@@ -1,6 +1,6 @@
 ### Hi Everyone! I'm Derek!
 <p align="center"> Software Engineer. Started coding at 10. I build fast, scalable systems, grounded in hardware knowledge and engineered for clean, reliable performance. </p>
-
+ 
 ```yaml
 {
     "Name": "Derek Ronquillo",
