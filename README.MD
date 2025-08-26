@@ -1,5 +1,5 @@
 ### Hi Everyone! I'm Derek!
-<p align="center"> Software Engineer. Started coding at 10. I build fast, scalable systems, grounded in hardware knowledge and engineered for clean, reliable performance. </p>
+<p align="center"> Software Engineer & Artist. Started coding at 10. I build fast, scalable systems, grounded in hardware knowledge and engineered for clean, reliable performance. Started my muic journey since 7, K-Pop and C-Pop Producer, Singer and Instrumentalist </p>
  
 ```yaml
 {
