@@ -1,11 +1,12 @@
-### Hi Everyone! I'm Derek!
-<p align="center"> Software Engineer & Artist. Started coding at 10. I build fast, scalable systems, grounded in hardware knowledge and engineered for clean, reliable performance. Started my muic journey since 7, K-Pop and C-Pop Producer, Singer and Instrumentalist </p>
+### Hi Everyone! I'm SJ Lee!
+<p align="center"> Software Engineer. Started coding at 10. I build fast, scalable systems, grounded in hardware knowledge and engineered for clean, reliable performance. </p>
  
 ```yaml
 {
     "Name": "Derek Ronquillo",
-    "Stage Name": "SeungJae Lee",
+    "Stage Name": "SJ Lee",
     "Birth Date": "03-16",
+    "Ethnicity": "Quarter Chinese, Filipino",
     "Based in": "Philippines",
     "Languages": ["Korean", "English", "Tagalog"],
     "Current Job": "Software Engineer & Artist",
@@ -28,7 +29,7 @@
         ["SQL", "JSON", "MongoDB"],
         ["NumPy", "TensorFlow", "Scikit-learn", "NLTK"],
         ["TypeScript", "PHP"],
-        ["React.js", "QT Framework"],
+        ["Node.js", "QT Framework"],
         ["API Integration", "RESTful API"]
     ],
 
